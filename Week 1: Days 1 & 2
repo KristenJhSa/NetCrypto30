@@ -1,0 +1,66 @@
+# NetCrypto30 – Week 1: Foundations — OSI, TCP/IP & Crypto Basics
+
+---
+
+## **Week 1 Goals (ongoing):**  
+1. Complete Cisco Packet Tracer exercises.  
+2. Complete IBM Computer Networking Basics course.  
+3. Stay up-to-date with Networking readings (Chapters 1 & 4).  
+4. Progress through Cryptography Basics (Chapters 1–2).  
+5. Document learning daily for accountability and portfolio development. 
+
+**Dates:**  
+- Day 1: November 3, 2025  
+- Day 2: November 4, 2025  
+
+**Focus for Week 1:**  
+- **Networking:** OSI Model, TCP/IP Fundamentals (Chapters 1 & 4 of Networking Textbook)  
+- **Cryptography Basics:** Chapters 1–2  
+
+---
+
+## **Day 1 – November 3, 2025**  
+
+**Planned:**  
+- Networking: Read Chapter 1 – OSI Overview and Advantages  
+- Cryptography: Chapter 1, Pages 9–16 – Basic Terms, What Makes a Cipher  
+- Cisco Packet Tracer: 15 minutes  
+- IBM Networking Basics course: Complete slides  
+
+**What I actually did:**  
+- **Networking:** Did not complete Chapter 1 reading due to time constraints.  
+- **Cryptography:** Completed Chapter 1 reading (pages 9–16). Explored basic terms, what makes a cipher, and experimented with older ciphers.  
+- **Cisco Packet Tracer:** 15 minutes of hands-on work. Learned that PCs and laptops can connect to networking devices via console or USB for management and configuration. Had fun with troubleshooting wireless routers and backup routers.  
+- **IBM Computer Networking Basics course:** Completed 5 slides (~15 minutes). Struggling to maintain focus, but committed to progress.  
+
+**Reflections & Learnings:**  
+- Cisco Packet Tracer is fun and helped me understand device connectivity.  
+- Learning ciphers reinforced the foundational concepts of cryptography.  
+- Need to develop a better learning system for networking content.  
+
+---
+
+## **Day 2 – November 4, 2025**  
+
+**Planned:**  
+- Networking: Continue Chapter 1 reading  
+- Cryptography: Chapter 1, Pages 17–21 – Hash & XOR  
+- Cisco Packet Tracer: 15 minutes  
+- IBM Networking Basics course: Continue slides  
+
+**What I actually did:**  
+- **Networking:** Did not even bother reading; time was limited due to rigorous lecture and class support duties. And networking is boring. 
+- **Cryptography:** Completed reading pages 17–21. Learned about hashes (one-way functions for integrity) and XOR operations. Reviewed asymmetric and symmetric encryption concepts, including public/private keys.  
+- **Cisco Packet Tracer:** Completed another 15 minutes of hands-on practice.  
+- **IBM Computer Networking Basics course:** Could not progress due to class workload. Will catch up on Day 3.  
+
+**Reflections & Learnings:**  
+- Hashes ensure data integrity and cannot be decrypted; differences in hashes indicate tampering.  
+- Asymmetric encryption uses a public key to encrypt and a private key to decrypt.  
+- Leading a review session helped reinforce my understanding of symmetric encryption and allowed me to perform a live example with classmates.  
+- Still need to allocate focused time for networking theory to stay on track.   
+
+---
+
+**Summary:**  
+The first two days of **NetCrypto30** have been a mix of hands-on learning, reading, and reflection. While networking theory remains a challenge, hands-on cryptography and Packet Tracer exercises have been motivating and insightful. I am committed to catching up and maintaining steady progress over the next 28 days.  
