@@ -1,0 +1,55 @@
+## 📅 Day 3 — NetCrypto30 Challenge
+
+**Date:** November 5, 2025
+
+---
+
+### 🗓️ What I Planned to Do
+
+* Finish Chapter 1 of Networking and start on a written lab
+* Read pages 22–28 of *Cryptography for Dummies* and learn about cryptosystems and real-world use cases
+* Spend 15 minutes in Cisco Packet Tracer
+* Do a short session from my IBM Networking course
+
+---
+
+### 💻 What Actually Happened
+
+* Spent the morning fixing up my LinkedIn, GitHub, and Instagram profiles
+* Attended my regular 4-hour *Women Techsters* lecture focused on **asymmetric cryptography** and **RSA**
+* Rewatched the entire lecture at 1.2x speed because I didn’t get it the first time
+* Followed through the RSA steps again using small numbers to understand the math
+* Practiced with GPG commands (key generation, symmetric and asymmetric encryption)
+* Realized the difference between “doing” encryption and *understanding* encryption
+
+---
+
+### 🔑 Key Learnings
+
+* It’s completely normal not to understand new concepts on the first try
+* Watching lectures again (even faster) helps connect the dots after some hands-on practice
+* The toughest part isn’t getting commands to run — it’s grasping *why* they work
+* Understanding cryptography will take repetition, not memorization
+* The “if it works, don’t touch it” mindset doesn’t apply here — I *have* to touch it to learn
+
+---
+
+### 📘 Next Steps
+
+My manager gave me three extra resources to strengthen my foundation before diving deeper:
+
+1. **TryHackMe – Encryption 101**
+2. **TryHackMe – Cryptography Intro**
+3. **RSA Encryption Explorer (web tool)**: https://muirlandoracle.co.uk/2020/01/29/rsa-encryption/
+
+Planning to tackle all three on **Friday**, when I’ll (hopefully) have the most time to myself.
+
+---
+
+### 🧭 Reflection
+
+Today was a reminder that progress isn’t always visible.
+Even if I didn’t finish my checklist, I spent hours building understanding — and that counts.
+This journey is going to take practice, patience, and a lot of “rewatch and retry” moments.
+
+#NetCrypto30 #CyberSecurity #Cryptography #RSA #LearningJourney #WomenInTech
