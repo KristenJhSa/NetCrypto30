@@ -36,13 +36,5 @@ This journey is about showing up every day, learning consistently, and sharing m
   - [Cryptography for Beginners Labs](https://github.com/labex-labs/cryptography-for-beginners)
 
 ---
-
-## 💬 Connect
-Follow my 30-day journey on:  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Instagram:** @YourHandle  
-- **Hashtag:** #NetCrypto30  
-
----
 ⭐ *Thanks for stopping by! This repo is my notebook, lab log, and motivation board all in one.*
 
